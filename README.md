@@ -6,5 +6,3 @@ What needs to be done:
 - Migrate users' encryption keys
 - Create a release
 - Make users happy
-
-Contact me at [support@journal.do](mailto:support@journal.do) or [@jarekceborski](https://x.com/jarekceborski)
